@@ -1,1 +1,4 @@
 # Cryptocurrencies
+The purpose of this analysis is to provide clients with information as they prepare to get into the cryptocurrency market. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. I've therefore created a reprot that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
+
+The data needed to be preprocessed to fit the machine learning models. Since there is no known output for what Accountability Accounting is looking for, I've decided to use unsupervised learning. Specifically, to group the cryptocurrencies, I decided on a clustering algorithm. After looking through my Jupyter Notebook file, you will see I created data visualizations to share my findings with the board.
